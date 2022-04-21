@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documents\Git\My Forth MVC App\bin\Debug\net6.0\My Forth MVC App.exe
+C:\Users\antho\OneDrive\Documents\Git\My Forth MVC App\bin\Debug\net6.0\My Forth MVC App.deps.json
+C:\Users\antho\OneDrive\Documents\Git\My Forth MVC App\bin\Debug\net6.0\My Forth MVC App.runtimeconfig.json
+C:\Users\antho\OneDrive\Documents\Git\My Forth MVC App\bin\Debug\net6.0\My Forth MVC App.dll
+C:\Users\antho\OneDrive\Documents\Git\My Forth MVC App\bin\Debug\net6.0\ref\My Forth MVC App.dll
+C:\Users\antho\OneDrive\Documents\Git\My Forth MVC App\bin\Debug\net6.0\My Forth MVC App.pdb
+C:\Users\antho\OneDrive\Documents\Git\My Forth MVC App\obj\Debug\net6.0\My Forth MVC App.csproj.AssemblyReference.cache
+C:\Users\antho\OneDrive\Documents\Git\My Forth MVC App\obj\Debug\net6.0\My Forth MVC App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documents\Git\My Forth MVC App\obj\Debug\net6.0\My Forth MVC App.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documents\Git\My Forth MVC App\obj\Debug\net6.0\My Forth MVC App.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documents\Git\My Forth MVC App\obj\Debug\net6.0\My Forth MVC App.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documents\Git\My Forth MVC App\obj\Debug\net6.0\My Forth MVC App.dll
+C:\Users\antho\OneDrive\Documents\Git\My Forth MVC App\obj\Debug\net6.0\ref\My Forth MVC App.dll
+C:\Users\antho\OneDrive\Documents\Git\My Forth MVC App\obj\Debug\net6.0\My Forth MVC App.pdb
+C:\Users\antho\OneDrive\Documents\Git\My Forth MVC App\obj\Debug\net6.0\My Forth MVC App.genruntimeconfig.cache
